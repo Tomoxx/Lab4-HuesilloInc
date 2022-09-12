@@ -1,0 +1,18 @@
+#header-image, #header-title {
+    text-align: center;
+}
+
+#card1, #card2, #card3 {
+    width: 15vw;
+    height: 15vh;
+}
+
+#card1 {
+    background-color: #bf0514;
+}
+#card2 {
+    background-color: #4a6ba1;
+}
+#card3 {
+    background-color: #c0c0c0;
+}
